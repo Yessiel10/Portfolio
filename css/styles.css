@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+background-image: url("https://images4.alphacoders.com/936/thumb-1920-936378.jpg");
+font-weight: bold;
+font-family: papyrus,sans-serif;
+color: #ffffff;
+text-shadow: 5px 5px 10px rgb(202, 255, 42);
+}
+
+.vini-img{
+    width: 400px;
+}
+
+h1{
+    color: #3fffbf;
+    text-decoration:overline underline;
+    text-shadow: 0 0 5px rgba(189, 214, 3, 0.851);
+}
